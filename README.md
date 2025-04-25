@@ -1,4 +1,7 @@
 # IIoT Industrial Internet of Things
+### Notes
+![IIoTNotes-NetworkIDs SubnetMasks drawio](https://github.com/user-attachments/assets/eaf39f54-ea77-4abb-8cbe-5a24061a6ce2)
+
 ## Challenge 1
 ![Deployment Map](https://github.com/user-attachments/assets/f93ba968-de1b-499f-80a4-53fdb1f212fe)
 
