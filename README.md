@@ -2,9 +2,6 @@
 ### Notes
 ![IIoTNotes-NetworkIDs SubnetMasks drawio](https://github.com/user-attachments/assets/eaf39f54-ea77-4abb-8cbe-5a24061a6ce2)
 
-## Challenge 1
-![Deployment Map](https://github.com/user-attachments/assets/f93ba968-de1b-499f-80a4-53fdb1f212fe)
-
 ### Click PLCs Bundle
 CLICK PLUS PLC, 24 VDC required, (1) option slot, WiFi LAN/Bluetooth, Ethernet, serial and microB-USB ports, battery backup, microSD card slot, no on-board I/O.
 https://www.automationdirect.com/adc/shopping/catalog/programmable_controllers/click_plus_plcs_(stackable_micro_modular)/cpus/c2-03cpu
